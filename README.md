@@ -11,7 +11,7 @@ The objective was to identify key behavioral and transactional flags that may in
 
 # 📊 Dashboard Highlights
 
-
+![Image](https://github.com/user-attachments/assets/486cdaee-6a7b-4378-9978-8d7b5f9a0c27)
 
 Built in Power BI, the dashboard enables dynamic exploration of fraud patterns via:
 
@@ -119,6 +119,7 @@ Focus fraud investigation efforts on gas stations and grocery merchants, which e
 ## C1. Merchant-Level Risk Map
 25 merchants were flagged high-risk due to repeated fraud and high transaction values (>$5,000).
 
+![Image](https://github.com/user-attachments/assets/da242d84-17d7-4c04-94eb-4b2b0f31353e)
 
 
 
@@ -126,9 +127,9 @@ Focus fraud investigation efforts on gas stations and grocery merchants, which e
 
 ## C2. Card Types & Location-Based Fraud
 Discover and Visa dominate fraud cases. Gas stations lead as the most targeted location.
+![Image](https://github.com/user-attachments/assets/682455a8-d352-4989-9926-c87ae1777f22)
 
-
-
+![Image](https://github.com/user-attachments/assets/f25ca00a-0a2f-46f4-92a5-227825304d12)
 
 
 ---
@@ -136,6 +137,7 @@ Discover and Visa dominate fraud cases. Gas stations lead as the most targeted l
 ## C3. Age Categories & Risk
 Working-age individuals (25–50) are most represented in fraud cases, though the correlation is minimal.
 
+![Image](https://github.com/user-attachments/assets/3cd42594-657a-485e-9474-9c8ecadae413)
 
 
 ---
